@@ -1,1 +1,1 @@
-# NematicPhase
+# NematicPhase for Heisenberg
